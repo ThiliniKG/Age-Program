@@ -84,51 +84,44 @@ public class Age {
 //		}	
 
 
-		
+
+// Checking Age for Anniversary		
 		int Age =40;
-				
 				if (Age==10)
-					
-				{ System.out.println("Anniversary Party!!.");
-		
+				{ 
+				System.out.println("Anniversary Party!!.");
 				}
+
                 if (Age==20)
-					
-				{ System.out.println("Anniversary Party!!.");
-		
+				{ 
+				System.out.println("Anniversary Party!!.");
 				}
+
                 if (Age==30)
-					
-				{ System.out.println("Anniversary Party!!.");
-		
+				{ 
+				System.out.println("Anniversary Party!!.");
 				}
 		
                 if (Age==40)
-					
-				{ System.out.println("Anniversary Party!!.");
-		
+				{ 
+				System.out.println("Anniversary Party!!.");
 				}
                 
-               if (Age==50)
-	
-                { System.out.println("Anniversary Party!!.");
-
-}
-               if (Age==100)
-            		
-               { System.out.println(" congratulations!."
+               	if (Age==50)
+	            { 
+				System.out.println("Anniversary Party!!.");
+				}
+               	
+				if (Age==100)
+               	{ 
+				System.out.println(" congratulations!."
                		+ " congratulations! ."
                		+ " congratulations! ");
-
-}
+				}
                 
-               if (Age >=40 && Age <=50)
-           		
-               { System.out.println("happy mid-life.");
-                
-                
-               }   
-                
-                
-}
+               	if (Age >=40 && Age <=50)
+           		{ 
+				System.out.println("happy mid-life.");
+		        }   
+        }
 }
