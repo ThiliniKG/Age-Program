@@ -1,105 +1,89 @@
+// If Statement Exercise
 
 public class Age {
-
 	public static void main(String[] args) {
-		
-//		int Age = 18;
-//		
-//	//  Print "You are underage.",if age is less than 18	
-//		
+
+
+// Checking Underage or Adult - Test 1
+//		int Age = 18;	
 //		if (Age > 0 && Age < 18)
 //		{	
 //			System.out.println("You are underage.");
-//
-//	}
+//		}
 //		else
 //		{	
 //			System.out.println("You are an adult.");
-//
-//	}	
-//			
-//		 System.out.println("Press space to exit."); 
-//		 
-		
-//		int Age =5;
-//		
-//		if (Age >0 && Age<18)
-//	{		
+//		}				
+//		 	System.out.println("Press space to exit."); 
+//		}
+
+
+
+// Checking Underage or Adult - Test 2
+//		int Age = 5;
+//		if (Age > 0 && Age < 18)
+//		{		
 //		System.out.println("You are underage.");
-//		
-//	}
-//	
+//		}
 //		else
 //		{	
-//			
 //			System.out.println("You are an adult.");
-//		
 //		}	
-//		
-//
-//			
 //			System.out.println("Press space to exit.");
-//			
+//		}
+
+
+
+// Checking retired
+//			int Age = 68		
 //			if (Age >0 && Age<18)
 //			{		
 //				System.out.println("You are underage.");
-//				
 //			}
-//			
 //			else if (Age >=65)
 //			{	
-//					
 //				System.out.println("You are retired.");
-//				
 //			}	
-//				
 //			else 
-//				
 //			{			
 //			System.out.println("You are an adult.");		
-//			
 //	        }
-		
-//		int Age =10;
-//		
-//		if (Age >0 && Age<18)
+
+
+
+// Checking age above 15 with all above
+//			int Age = 18;
+//			if (Age >0 && Age<18)
 //			{		
 //			System.out.println("You are underage.");
-//				
-//		}
-//		
-//		if (Age >=15)
-//		{		
+//			}
+//			else if (Age >=15)
+//			{		
 //			System.out.println("You can drive a moped.");
-//				
-//		}	
-//		
-//		else if (Age >=65)
-//		{		
+//			}	
+//			else if (Age >=65)
+//			{		
 //			System.out.println("You are retired.");
-//				
-//		}	
-//		else
-//		{		
+//			}	
+//			else
+//			{		
 //			System.out.println("You are an adult.");
-//				
-//		}		
-			
-//		int Age =20;
-//		
+//			}		
+
+
+
+// Checking age above 18
+//		int Age = 20;
 //		if (Age > 0 && Age < 18) 
-//		
 //		{ 
 //			System.out.println("You are underage."); 
 //		}
-//		
-//		
-//		
 //		if (Age >=18)
-//			{		
-//			System.out.println("You can drive a car.");
-//		
-//			}	
+//		{		
+//		System.out.println("You can drive a car.");
+//		}	
+
+
 		
 		int Age =40;
 				
